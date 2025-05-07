@@ -50,7 +50,11 @@ Este projeto em C implementa e compara o tempo de execução de diversos algorit
 
 ## Estrutura de Arquivos
 projeto-2/
+
 ─ Funcoes.fila.h # Protótipos de funções de fila
+
 ─ Funcoes.h # Declarações das funções de ordenação, geração de vetores e utilitários (troca, cálculo de tempo), além da definição da struct item
+
 ─ main.c # Função main com laço de testes e relatórios de tempo
+
 ─ README.md # (este arquivo)
